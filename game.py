@@ -59,7 +59,7 @@ class SandBox:
     def update(self):
         # Time
         # self.dt = self.pyclock.tick(self.settings["fps"]) / 1000
-        self.dt = self.pyclock.tick(60) / 1000
+        self.dt = self.pyclock.tick(20) / 1000
 
         # Grid
         self.grid.update()
@@ -68,12 +68,12 @@ class SandBox:
 class Grid:
     def __init__(self, parent):
         self.parent = parent
-        self.size = [100, 100]
+        self.size = [50, 50]
         self.tile_size = 10
         self.grid_line_width = 1
         self.rect = pygame.rect.Rect((100, 100, self.size[0] * self.tile_size, self.size[1] * self.tile_size))
         self.tile_map = [[Air(self, (j, i)) for j in range(self.size[0])] for i in range(self.size[1])]
-        self.tile_map[10][10] = Sand(self, (10, 10))
+        self.tile_map[25][25] = Sand(self, (25, 25))
 
     def draw(self):
         # Draw rectangle background
