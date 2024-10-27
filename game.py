@@ -140,4 +140,5 @@ class Sand(Tile):
         self.id = 1
 
     def update(self):
+        # Needs fixing, when you switch this value  v  to 1 then it will crash idk why
         self.parent.tile_request(self, "move", (0, -1), Air)
