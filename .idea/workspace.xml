@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41355b04-b44a-4a91-8e77-c6e836e00a4b" name="Changes" comment="Test 2">
-      <change afterPath="$PROJECT_DIR$/fonts/grapple/grapple.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/grapple/grapple.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/upheaval/Upheaval.fon" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/upheaval/upheaval.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/upheaval/upheavtt.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PtSandBox.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PtSandBox.iml" afterDir="false" />
+    <list default="true" id="41355b04-b44a-4a91-8e77-c6e836e00a4b" name="Changes" comment="Added bunch of stuff">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,22 +22,23 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "PolarT-py"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PolarT-py&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/PolarT-py/PtSandBox.git",
-    "accountId": "ab74b119-96f7-4673-ba97-4684fa9f48bf"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PolarT-py/PtSandBox.git&quot;,
+    &quot;accountId&quot;: &quot;ab74b119-96f7-4673-ba97-4684fa9f48bf&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2o1Vcx7X3cT6BUOViJU99nVRVGJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -123,13 +116,22 @@
       <option name="project" value="LOCAL" />
       <updated>1730037338007</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added bunch of stuff">
+      <option name="closed" value="true" />
+      <created>1730052773803</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730052773803</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="The beginning" />
     <MESSAGE value="Test 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test 2" />
+    <MESSAGE value="Added bunch of stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added bunch of stuff" />
   </component>
 </project>
